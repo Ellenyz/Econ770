@@ -1,4 +1,4 @@
-# Econ770
+# Econ770  Forcasts on Covid-19 New Confirmed Cases, 2020
 Econ770 Group Project
 
 This project is conducted by the year of 2020. Yichen Zhu and Ellen (Yuzhou) Wang are the main investigators.
